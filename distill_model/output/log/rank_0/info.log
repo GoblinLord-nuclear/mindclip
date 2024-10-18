@@ -1,0 +1,6 @@
+[WARNING] 2024-07-05 19:54:53,324 [mindformers\tools\download_tools.py:32] <module>: The library fcntl is not found. This may cause the reading file failed when call the from_pretrained for different process.
+[WARNING] 2024-07-05 19:55:04,348 [mindformers\tools\download_tools.py:32] <module>: The library fcntl is not found. This may cause the reading file failed when call the from_pretrained for different process.
+[WARNING] 2024-07-05 19:55:50,041 [mindformers\tools\download_tools.py:32] <module>: The library fcntl is not found. This may cause the reading file failed when call the from_pretrained for different process.
+[WARNING] 2024-07-05 20:00:24,712 [mindformers\tools\download_tools.py:32] <module>: The library fcntl is not found. This may cause the reading file failed when call the from_pretrained for different process.
+[WARNING] 2024-07-05 20:01:11,607 [mindformers\tools\download_tools.py:32] <module>: The library fcntl is not found. This may cause the reading file failed when call the from_pretrained for different process.
+[WARNING] 2024-07-05 20:57:03,302 [mindformers\tools\download_tools.py:32] <module>: The library fcntl is not found. This may cause the reading file failed when call the from_pretrained for different process.
